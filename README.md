@@ -1,3 +1,3 @@
 # kokoa clone 2020
 
-css got so much better
+html and css are so much fun!
