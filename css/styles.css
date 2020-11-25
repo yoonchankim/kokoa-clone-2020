@@ -8,12 +8,13 @@
 @import "components/screen-header.css";
 @import "components/user.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
 
 /* screens */
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
-
+@import "screens/more.css";
 body {
   font-family: "Open Sans", sans-serif;
 }
