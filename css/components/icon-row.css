@@ -3,6 +3,9 @@
   justify-content: space-between;
   align-items: center;
 }
+.bottom-icon {
+  color: white;
+}
 .icon-row_icon {
   display: flex;
   flex-direction: column;
@@ -10,6 +13,9 @@
 }
 .icon-row_icon i {
   font-size: 40px;
+}
+.bottom-span {
+  color: white;
 }
 .icon-row_icon span {
   margin-top: 18px;
