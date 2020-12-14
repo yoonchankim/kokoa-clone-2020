@@ -115,9 +115,6 @@
 .open-post2 {
   padding-top: 20px;
 }
-#find-body {
-  height: 950px;
-}
 @keyframes heartBeat {
   0% {
     color: white;
@@ -134,4 +131,7 @@
 .open-post__heart-count:hover i {
   will-change: transform;
   animation: heartBeat 1s linear infinite;
+}
+#find-body {
+  overflow: hidden;
 }
